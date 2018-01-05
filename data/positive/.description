@@ -1,0 +1,2 @@
+This folder contains positive image patches used for training i.e. patches containing autorickshaw.
+Images are saved here during execution of Train_ID.m script. 
